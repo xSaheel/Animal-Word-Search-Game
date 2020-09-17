@@ -1,8 +1,12 @@
 # Animal-Word-Search-Game
-Its a Word-Search game with proper GUI using Tkinter in Python.
-Created by Saheel Kumar Das.
+A Classic Animal Word Search game made in Python using
+Tkinter for GUI.
 
-It works on a simple algorithm to place words in random places and random orientations inside the grid of random letters.
-After that all we have to do is create a good and interactive GUI.
+It has a grid of random words where names of animals are
+hidden in horizontal, vertical and Diagonal orientation.
 
-Thanks for checking out.
+The users are provided hints/ riddles about the animals hidden and
+they have to search it.
+
+Currently i am thinking to add a scoring function in the game with each correct choice.
+
